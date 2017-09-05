@@ -4,6 +4,4 @@ List of the top 5 superheroes
 - Flash
 - Wolverine
 - Deadpool
-
-
 - Black Panther
